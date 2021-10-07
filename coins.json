@@ -1,0 +1,65 @@
+{
+  "BNT": { "id": "bancor", "symbol": "bnt", "name": "Bancor Network Token" },
+  "BTC": { "id": "bitcoin", "symbol": "btc", "name": "Bitcoin" },
+  "BUSD": { "id": "binance-usd", "symbol": "busd", "name": "Binance USD" },
+  "CEL": {
+    "id": "celsius-degree-token",
+    "symbol": "cel",
+    "name": "Celsius Network"
+  },
+  "EOS": { "id": "eos", "symbol": "eos", "name": "EOS" },
+  "ETC": {
+    "id": "ethereum-classic",
+    "symbol": "etc",
+    "name": "Ethereum Classic"
+  },
+  "ETH": { "id": "ethereum", "symbol": "eth", "name": "Ethereum" },
+  "LINK": { "id": "chainlink", "symbol": "link", "name": "Chainlink" },
+  "MATIC": { "id": "matic-network", "symbol": "matic", "name": "Polygon" },
+  "USDC": { "id": "usd-coin", "symbol": "usdc", "name": "USD Coin" },
+  "USDT": { "id": "tether", "symbol": "usdt", "name": "Tether" },
+  "DAI": { "id": "dai", "symbol": "dai", "name": "Dai" },
+  "LTC": { "id": "litecoin", "symbol": "ltc", "name": "Litecoin" },
+  "XLM": { "id": "stellar", "symbol": "xlm", "name": "Stellar" },
+  "AAVE": { "id": "aave", "symbol": "aave", "name": "Aave" },
+  "LUNA": { "id": "terra-luna", "symbol": "luna", "name": "Terra" },
+  "BAT": {
+    "id": "basic-attention-token",
+    "symbol": "bat",
+    "name": "Basic Attention Token"
+  },
+  "BCH": { "id": "bitcoin-cash", "symbol": "bch", "name": "Bitcoin Cash" },
+  "COMP": {
+    "id": "compound-governance-token",
+    "symbol": "comp",
+    "name": "Compound"
+  },
+  "DOT": { "id": "polkadot", "symbol": "dot", "name": "Polkadot" },
+  "MANA": { "id": "decentraland", "symbol": "mana", "name": "Decentraland" },
+  "BNB": { "id": "binancecoin", "symbol": "bnb", "name": "Binance Coin" },
+  "PAXG": { "id": "pax-gold", "symbol": "paxg", "name": "PAX Gold" },
+  "SNX": { "id": "havven", "symbol": "snx", "name": "Synthetix Network Token" },
+  "UNI": { "id": "uniswap", "symbol": "uni", "name": "Uniswap Token" },
+  "XRP": { "id": "ripple", "symbol": "xrp", "name": "XRP" },
+  "OMG": { "id": "omisego", "symbol": "omg", "name": "OMG Network" },
+  "BSV": { "id": "bitcoin-cash-sv", "symbol": "bsv", "name": "Bitcoin SV" },
+  "ZRX": { "id": "0x", "symbol": "zrx", "name": "0x" },
+  "UMA": { "id": "uma", "symbol": "uma", "name": "UMA" },
+  "ADA": { "id": "cardano", "symbol": "ada", "name": "Cardano" },
+  "TUSD": { "id": "true-usd", "symbol": "tusd", "name": "TrueUSD" },
+  "GUSD": { "id": "gemini-dollar", "symbol": "gusd", "name": "Gemini Dollar" },
+  "KNC": {
+    "id": "kyber-network-crystal",
+    "symbol": "knc",
+    "name": "Kyber Network Crystal"
+  },
+  "THKD": { "id": "truehkd", "symbol": "thkd", "name": "TrueHKD" },
+  "ZEC": { "id": "zcash", "symbol": "zec", "name": "Zcash" },
+  "DASH": { "id": "dash", "symbol": "dash", "name": "Dash" },
+  "TAUD": { "id": "trueaud", "symbol": "taud", "name": "TrueAUD" },
+  "PAX": { "id": "paxos-standard", "symbol": "pax", "name": "Paxos Standard" },
+  "XAUT": { "id": "tether-gold", "symbol": "xaut", "name": "Tether Gold" },
+  "TGBP": { "id": "truegbp", "symbol": "tgbp", "name": "TrueGBP" },
+  "ZUSD": { "id": "zusd", "symbol": "zusd", "name": "ZUSD" },
+  "WDGLD": { "id": "wrapped-dgld", "symbol": "wdgld", "name": "Wrapped-DGLD" }
+}
